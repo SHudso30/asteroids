@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environment
+.venv/
+.venv-broken/
+.venv-broken-2/
+
+# Game logs
+game_state.jsonl
+game_events.jsonl
